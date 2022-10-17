@@ -1,1 +1,2 @@
 This is fileA.
+this is a chnacge to the file
